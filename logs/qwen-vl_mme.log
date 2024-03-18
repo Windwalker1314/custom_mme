@@ -1,0 +1,1614 @@
+2024-02-04 08:04:11,369 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:11,889 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/david.png, 
+Prompt: Is this painting created by Michelangelo?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:11,890 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:12,167 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/david.png, 
+Prompt: Is this painting created by Picasso?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:12,167 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:12,442 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/Creation_of_Adam.jpg, 
+Prompt: Is this painting created by Michelangelo?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:12,442 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:12,823 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/Creation_of_Adam.jpg, 
+Prompt: Is this painting called David?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:12,823 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:13,091 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/Haystacks.jpg, 
+Prompt: Is this painting created by Monet?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:13,091 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:13,358 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/Haystacks.jpg, 
+Prompt: Is this painting created by Van Gogh?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:13,358 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:13,615 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/Haystacks2.jpg, 
+Prompt: Is this painting created by Monet called Haystacks?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:13,615 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:13,870 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/Haystacks2.jpg, 
+Prompt: Is this painting created by Van Gogh?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:13,870 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:14,126 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/ku_mu_guai_shi.jpeg, 
+Prompt: Is this painting created by Su Shi called '枯木怪石图'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:14,126 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:14,379 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/ku_mu_guai_shi.jpeg, 
+Prompt: Is this painting created by Zhang Daqian?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:14,380 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:14,633 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/last_supper.jpg, 
+Prompt: Is this painting created by Leonardo da Vinci?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:14,633 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:14,881 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/last_supper.jpg, 
+Prompt: Is this painting created by Picasso?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:14,881 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:15,189 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/lotus.jpeg, 
+Prompt: Is this painting created by Monet called Water Lilies?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:15,189 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:15,495 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/lotus.jpeg, 
+Prompt: Is this painting created by Picasso?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:15,496 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:15,901 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/shanshui12.jpg, 
+Prompt: Are these paintings created by Qi Baishi called '山水十二条屏'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:15,901 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:16,295 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/shanshui12.jpg, 
+Prompt: Are these paintings created by Zhang Daqian?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:16,295 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:16,547 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/sunflower.jpg, 
+Prompt: Is this painting created by Van Gogh?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:16,547 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:16,796 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/sunflower.jpg, 
+Prompt: Is this painting created by Picasso?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:16,796 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:17,055 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/woman_with_a_pearl.jpg, 
+Prompt: Is this painting created by Corot Camille?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:17,055 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:17,311 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/artwork/woman_with_a_pearl.jpg, 
+Prompt: Is this painting created by Leonardo da Vinci??Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:17,311 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:17,608 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal1.jpg, 
+Prompt: If accurate to three decimal places, is this equation approximately equal to -23.167?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:17,608 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:17,932 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal1.jpg, 
+Prompt: If accurate to three decimal places, is this equation approximately equal to 16.667?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:17,933 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:18,259 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal2.jpg, 
+Prompt: Is the result of this equation equal to 832?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:18,259 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:18,581 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal2.jpg, 
+Prompt: Is the result of this equation equal to 612?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:18,581 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:18,906 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal3.jpg, 
+Prompt: Is the result of this equation equal to 92?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:18,906 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:19,227 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal3.jpg, 
+Prompt: Is the result of this equation equal to 82?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:19,227 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:19,520 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal4.jpg, 
+Prompt: Should the value of x be 1 or 6?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:19,520 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:19,820 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal4.jpg, 
+Prompt: Should the value of x be -1 or 7?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:19,820 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:20,080 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal5.jpg, 
+Prompt: According to the conditions in the figure, should the value of a be 5 or -5, and the value of b be 4 or -4?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:20,080 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:20,340 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal5.jpg, 
+Prompt: According to the conditions in the figure, should the value of a be 10 and the value of b be 2?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:20,340 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:20,587 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal6.png, 
+Prompt: Is this equation equal to 339?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:04:20,587 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:20,833 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal6.png, 
+Prompt: Is this equation equal to -327?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:20,833 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:21,079 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal7.png, 
+Prompt: Is this equation equal to 1/sqrt(2), approximately equal to 0.707?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:21,079 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:21,327 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal7.png, 
+Prompt: Is this equation equal to 1+sqrt(2), approximately equal to 2.414?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:21,327 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:21,569 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal8.png, 
+Prompt: Is this equation equal to 9?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:21,569 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:21,834 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal8.png, 
+Prompt: Is this equation equal to 11?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:21,834 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:22,083 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal9.png, 
+Prompt: Is this equation equal to 12x?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:04:22,083 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:22,330 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal9.png, 
+Prompt: Is this equation equal to 3x?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:22,330 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:22,584 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal10.png, 
+Prompt: Is this equation equal to x^3?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:04:22,584 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:22,831 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/calculation/cal10.png, 
+Prompt: Is this equation equal to x/3?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:22,832 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:23,101 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Cheng_Long.jpg, 
+Prompt: Is this person Jackie Chan?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:23,102 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:23,364 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Cheng_Long.jpg, 
+Prompt: Is this person Jet Li?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:23,364 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:23,612 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Einstein.jpg, 
+Prompt: Is this person Einstein?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:23,612 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:23,855 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Einstein.jpg, 
+Prompt: Is this person Hawking?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:23,855 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:24,116 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Hawking.jpg, 
+Prompt: Is this person Hawking?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:24,116 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:24,371 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Hawking.jpg, 
+Prompt: Is this person Einstein?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:24,371 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:24,721 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Hu_Ge.jpg, 
+Prompt: Is this person Hu Ge?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:24,721 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:25,069 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Hu_Ge.jpg, 
+Prompt: Is this person Huang Xiaoming?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:25,069 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:25,339 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Jim_Parsons.jpg, 
+Prompt: Is this person Jim Parsons?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:25,339 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:25,606 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Jim_Parsons.jpg, 
+Prompt: Is this person Johnny Depp?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:25,606 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:25,881 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/kobe.jpg, 
+Prompt: Is this person Kobe Bryant?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:25,881 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:26,138 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/kobe.jpg, 
+Prompt: Is this person Michael Jordan?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:26,138 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:26,405 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Lu_Xun.jpg, 
+Prompt: Is this person Lu Xun?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:26,405 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:26,670 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Lu_Xun.jpg, 
+Prompt: Is this person Du Fu?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:26,671 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:26,961 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Taylor_Swift.jpg, 
+Prompt: Is Taylor Swift in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:26,961 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:27,256 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Taylor_Swift.jpg, 
+Prompt: Is Avril in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:27,256 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:27,521 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Yang_Mi.jpg, 
+Prompt: Is this person Yang Mi?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:27,522 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:27,781 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/celebrity/Yang_Mi.jpg, 
+Prompt: Is this person Fan Bingbing?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:27,782 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:28,031 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python1.png, 
+Prompt: Is the output of this code 11 and 18?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:28,031 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:28,285 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python1.png, 
+Prompt: Is the output of this code 4 and 16?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:28,285 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:28,528 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python2.png, 
+Prompt: Will this code report an error?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:04:28,529 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:28,777 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python2.png, 
+Prompt: Is the output of this code Xiao Ming?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:28,777 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:29,021 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python3.png, 
+Prompt: Is the output of this code 8 9 10?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:29,021 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:29,268 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python3.png, 
+Prompt: Is the output of this code 8 and 9?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:29,268 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:29,512 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python4.png, 
+Prompt: Is the output of this code 4 3 2 1?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:29,512 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:29,785 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python4.png, 
+Prompt: Is the output of this code [4,1,2,3]?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:29,785 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:30,032 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python5.png, 
+Prompt: Is the output of this code [1, 2, 5, 4]?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:04:30,033 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:30,286 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/code/python5.png, 
+Prompt: Is the output of this code [1, 5, 2, 4]?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:30,286 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:31,024 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/black_chair.jpg, 
+Prompt: Is the chair in the picture black?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:31,024 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:31,810 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/black_chair.jpg, 
+Prompt: Is the chair in the picture white?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:31,810 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:32,342 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/blue.jpg, 
+Prompt: Is the door on the right sky blue?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:32,342 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:32,882 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/blue.jpg, 
+Prompt: Is the door on the left gray green?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:32,882 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:33,618 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/green_wing.jpg, 
+Prompt: Is the bird's wings in the picture green?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:33,618 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:34,290 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/green_wing.jpg, 
+Prompt: Is the bird's wings in the picture red?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:34,290 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:34,566 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/green.jpg, 
+Prompt: Is the backpack of the person in the picture green?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:34,566 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:34,832 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/green.jpg, 
+Prompt: Is the backpack of the person in the picture yellow?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:34,832 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:35,402 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/orange.jpg, 
+Prompt: Is the hair of the person in the picture orange?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:04:35,402 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:35,971 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/orange.jpg, 
+Prompt: Is the hair of the person in the picture yellow?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:35,971 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:36,809 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/pink_tree.jpg, 
+Prompt: Is the tree in the picture pink?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:36,809 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:37,667 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/pink_tree.jpg, 
+Prompt: Is the tree in the picture green?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:37,668 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:38,284 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/pink.jpg, 
+Prompt: Is the cat wearing a pink hood in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:38,285 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:38,915 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/pink.jpg, 
+Prompt: Is the cat wearing a gray hood in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:38,915 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:40,476 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/tree_green.jpg, 
+Prompt: Is the trunk of the tree in the picture green?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:40,476 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:42,155 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/tree_green.jpg, 
+Prompt: Is the trunk of the tree in the picture brown?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:42,155 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:42,924 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/white_pink.jpg, 
+Prompt: Is the heart on the cake on the right white?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:42,925 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:43,682 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/white_pink.jpg, 
+Prompt: Is the heart on the cake on the right pink?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:43,683 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:44,228 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/white.jpg, 
+Prompt: Is the clothes of the person in the picture white?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:44,228 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:44,778 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/color/white.jpg, 
+Prompt: Is the clothes of the person in the picture black?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:44,779 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:45,190 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/car.jpg, 
+Prompt: Is this part of a car in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:45,190 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:45,604 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/car.jpg, 
+Prompt: Is this part of a building in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:45,604 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:45,915 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense1.png, 
+Prompt: Should we keep quiet in this scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:45,915 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:46,231 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense1.png, 
+Prompt: Is it suitable to practice yoga and taekwondo in this scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:46,231 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:46,510 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense2.png, 
+Prompt: Is the picture a yardang landform?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:46,510 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:46,785 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense2.png, 
+Prompt: Is the picture a karst landform?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:46,785 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:47,513 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense3.jpg, 
+Prompt: Can we ride bamboo rafts in this scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:47,513 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:48,282 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense3.jpg, 
+Prompt: Can we take a cruise in this scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:48,282 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:48,897 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense4.jpg, 
+Prompt: Is this phenomenon called aurora?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:48,897 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:49,507 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense4.jpg, 
+Prompt: Can this phenomenon be seen in Hainan Province, China?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:49,507 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:49,776 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense5.jpg, 
+Prompt: Is there only one real dog in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:49,777 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:50,040 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense5.jpg, 
+Prompt: Are there two real dogs in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:50,040 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:51,567 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense6.jpg, 
+Prompt: Is the person in the picture facing the coral reef?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:51,568 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:53,001 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense6.jpg, 
+Prompt: Is the person in the picture parachuting?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:53,002 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:54,086 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense7.jpg, 
+Prompt: Is this Jupiter in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:54,086 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:55,151 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense7.jpg, 
+Prompt: Is this Saturn in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:55,151 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:55,930 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense8.jpg, 
+Prompt: Is the person in the picture squeezing fruit and vegetable juice?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:55,931 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:56,677 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/commonsense8.jpg, 
+Prompt: Is the person in the picture squeezing orange juice?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:04:56,677 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:57,828 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/photographer.jpg, 
+Prompt: Is the person in the picture taking pictures?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:57,828 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:59,005 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/photographer.jpg, 
+Prompt: Is the person in the picture sniping?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:04:59,006 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:04:59,506 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/ski.jpg, 
+Prompt: Is the person in the picture skiing?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:04:59,506 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:00,010 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/commonsense/ski.jpg, 
+Prompt: Is the person in the picture skating?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:00,010 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:00,298 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count1.png, 
+Prompt: Are there six ducks in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:00,298 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:00,583 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count1.png, 
+Prompt: Are there seven ducks in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:00,583 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:00,877 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count2.png, 
+Prompt: Are there eight birds in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:00,877 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:01,165 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count2.png, 
+Prompt: Are there ten birds in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:01,165 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:01,415 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count3.png, 
+Prompt: Are there 14 gray circles and two orange circles in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:01,415 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:01,672 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count3.png, 
+Prompt: Are there 12 large gray circles, 4 small gray circles and two orange circles in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:01,672 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:02,214 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count4.jpg, 
+Prompt: Are there two pizzas and two cups in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:02,214 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:02,767 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count4.jpg, 
+Prompt: Are there three salads and three cups in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:02,767 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:03,478 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count5.jpg, 
+Prompt: Are there two red apples and one green apple in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:03,478 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:04,150 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/count5.jpg, 
+Prompt: Are there only one red apple and one green apple in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:04,150 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:05,402 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/eight.jpg, 
+Prompt: Are there eight deer in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:05,402 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:06,630 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/eight.jpg, 
+Prompt: Are there ten deer in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:06,630 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:07,976 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/three_girls.jpg, 
+Prompt: Are there three girls in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:07,976 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:09,550 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/three_girls.jpg, 
+Prompt: Are there four girls in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:09,551 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:10,410 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/two_bowls.jpg, 
+Prompt: Are there two bowls in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:10,410 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:11,282 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/two_bowls.jpg, 
+Prompt: Are there three pairs of chopsticks in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:11,282 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:12,204 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/two_girls.jpg, 
+Prompt: Are there two girls in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:12,204 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:13,096 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/count/two_girls.jpg, 
+Prompt: Are there three girls in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:13,096 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:13,623 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/candle.jpg, 
+Prompt: Are there candles in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:13,623 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:14,152 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/candle.jpg, 
+Prompt: Are there matches in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:14,152 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:14,917 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/carrot.jpg, 
+Prompt: Are there carrots in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:14,918 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:15,749 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/carrot.jpg, 
+Prompt: Are there potatoes in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:15,750 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:16,285 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/castle.jpg, 
+Prompt: Are there castles in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:16,285 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:16,807 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/castle.jpg, 
+Prompt: Are there snow mountains in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:16,808 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:17,463 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/dice.jpg, 
+Prompt: Are there dice with four points facing up in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:17,464 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:18,072 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/dice.jpg, 
+Prompt: Are there playing cards in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:18,073 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:18,478 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/elephant.jpg, 
+Prompt: Are there elephants in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:18,478 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:18,897 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/elephant.jpg, 
+Prompt: Are there lions in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:18,897 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:19,253 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/giraffe.jpg, 
+Prompt: Are there giraffes in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:19,253 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:19,605 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/giraffe.jpg, 
+Prompt: Are there zebras in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:19,606 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:19,859 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/mirror.jpg, 
+Prompt: Are there mirrors in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:19,860 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:20,117 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/mirror.jpg, 
+Prompt: Is there a door in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:20,117 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:20,694 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/motorcycle.jpg, 
+Prompt: Are there motorcycles in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:20,694 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:21,284 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/motorcycle.jpg, 
+Prompt: Are there airplanes in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:21,284 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:22,209 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/windmill.jpg, 
+Prompt: Are there windmills in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:22,209 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:23,146 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/windmill.jpg, 
+Prompt: Are there kites in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:23,146 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:24,601 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/yacht.jpg, 
+Prompt: Are there yachts in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:24,601 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:25,066 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/existence/yacht.jpg, 
+Prompt: Are there submarines in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:25,067 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:25,763 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Eiffel_Tower.jpg, 
+Prompt: Is the picture the Eiffel Tower?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:25,764 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:26,483 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Eiffel_Tower.jpg, 
+Prompt: Is the picture the Tokyo Tower?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:26,483 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:26,772 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Empire_State_Building.jpg, 
+Prompt: Is the picture the Empire State Building?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:26,772 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:27,099 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Empire_State_Building.jpg, 
+Prompt: Is the picture the CCTV Tower in Beijing?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:27,099 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:27,365 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/National_Grand_Theatre.jpg, 
+Prompt: Is the picture the National Grand Theatre?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:27,365 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:27,630 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/National_Grand_Theatre.jpg, 
+Prompt: Is the picture the Sydney Opera House?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:27,630 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:27,962 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Notre_Dame_of_Paris.jpg, 
+Prompt: Is the picture Notre Dame of Paris?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:27,963 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:28,288 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Notre_Dame_of_Paris.jpg, 
+Prompt: Is the picture St. Peter's Basilica?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:28,288 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:28,559 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Operahouse.jpg, 
+Prompt: Is the picture the Sydney Opera House?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:28,559 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:28,839 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Operahouse.jpg, 
+Prompt: Is the picture the National Grand Theatre?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:28,839 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:29,161 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Pisa_tower.jpg, 
+Prompt: Is the picture the Leaning Tower of Pisa?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:29,161 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:29,483 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Pisa_tower.jpg, 
+Prompt: Is the picture the Eiffel Tower?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:29,483 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:30,035 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Potala_Palace.jpg, 
+Prompt: Is the picture Potala Palace?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:30,036 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:30,586 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Potala_Palace.jpg, 
+Prompt: Is the picture the Forbidden City?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:30,586 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:30,843 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Pyramid.jpg, 
+Prompt: Is the picture the Pyramid?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:30,843 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:31,101 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Pyramid.jpg, 
+Prompt: Is the picture the yurt?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:31,101 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:31,395 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Taj_Mahal.jpg, 
+Prompt: Is the picture the Taj Mahal?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:31,395 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:31,682 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/Taj_Mahal.jpg, 
+Prompt: Is the picture the Louvre?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:31,683 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:32,502 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/The_Statue_of_Liberty.jpg, 
+Prompt: Is there the Statue of Liberty in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:32,502 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:33,310 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/landmark/The_Statue_of_Liberty.jpg, 
+Prompt: Is there the Eiffel Tower in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:33,310 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:33,948 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/Ausgang.jpg, 
+Prompt: Is the picture written 'Ausgang'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:33,948 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:34,575 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/Ausgang.jpg, 
+Prompt: Is the picture written 'Eingang'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:34,575 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:35,253 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/fruit_sour.jpg, 
+Prompt: Is the picture written 'fruit sour'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:35,254 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:36,007 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/fruit_sour.jpg, 
+Prompt: Is the picture written 'fruit soup'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:36,007 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:37,039 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/japan.jpg, 
+Prompt: Is the picture a street in Japan?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:37,039 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:38,041 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/japan.jpg, 
+Prompt: Is the picture a street in China?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:38,041 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:38,986 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/make_meaning.jpg, 
+Prompt: Is the picture written 'make meaning'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:38,986 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:39,926 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/make_meaning.jpg, 
+Prompt: Is the picture written 'make money'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:39,926 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:40,657 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR_dream.jpg, 
+Prompt: Is there a heart-shaped word 'dream' in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:40,657 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:41,376 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR_dream.jpg, 
+Prompt: Is there a heart-shaped word 'love' in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:41,376 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:42,114 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/Menu.jpg, 
+Prompt: Is there French toast on the menu?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:42,114 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:42,876 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/Menu.jpg, 
+Prompt: Are there steaks and pasta on the menu?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:42,876 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:43,221 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR1.jpg, 
+Prompt: Is the picture written that '人间有味是清欢'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:43,221 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:43,563 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR1.jpg, 
+Prompt: Is the picture written that people ask what is the taste of food?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:43,563 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:43,826 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR2.jpg, 
+Prompt: Is the picture written that 'Love is always the answer'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:43,827 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:44,090 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR2.jpg, 
+Prompt: Is the picture written that 'Love is always the question'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:44,090 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:44,384 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR3.jpg, 
+Prompt: According to the information on the receipt, is the price of mushrooms 15.96 yuan?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:44,384 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:44,682 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR3.jpg, 
+Prompt: According to the information on the receipt, is the price of mushrooms 16.96 yuan?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:44,682 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:45,345 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR4.jpg, 
+Prompt: Is the sign raised by the girl on the right written 'The future is female'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:45,345 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:45,995 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/ocr/OCR4.jpg, 
+Prompt: Is the sign raised by the girl on the left reading 'I love you'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:45,996 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:46,447 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position1.jpg, 
+Prompt: Is the train on the right of the person in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:46,447 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:46,884 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position1.jpg, 
+Prompt: Is the train in front of the person in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:46,884 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:47,151 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position2.jpg, 
+Prompt: From the perspective of the photographer, is the dog on the right of the cat in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:47,151 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:47,409 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position2.jpg, 
+Prompt: From the perspective of the photographer, is the dog on the left of the cat in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:47,409 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:48,020 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position3.jpg, 
+Prompt: Is the cup in the upper right corner of the paper?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:48,020 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:48,663 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position3.jpg, 
+Prompt: Is the cup in the lower left corner of the paper?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:48,663 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:49,207 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position4.jpg, 
+Prompt: In the picture, is the person with the bag on the left of another person (from the perspective of the photographer)?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:49,207 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:49,731 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position4.jpg, 
+Prompt: In the picture, is the person with the bag on the right of another person (from the perspective of the photographer)?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:49,731 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:50,435 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position5.jpg, 
+Prompt: Is the woman on the right side of the man in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:50,435 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:51,139 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position5.jpg, 
+Prompt: Is the woman on the left side of the man in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:51,139 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:52,357 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position6.jpg, 
+Prompt: Is the metal spoon on the left of the metal fork in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:52,357 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:53,587 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position6.jpg, 
+Prompt: Is the metal spoon on the right of the metal fork in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:53,587 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:53,996 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position7.jpg, 
+Prompt: Is the person with the blue backpack on the right of the person with the green backpack in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:53,996 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:54,424 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position7.jpg, 
+Prompt: Is the person with the blue backpack on the left of the person with the green backpack in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:54,424 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:55,679 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position8.jpg, 
+Prompt: Is the house on the left of the tree in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:55,679 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:56,960 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position8.jpg, 
+Prompt: Is the house on the right of the tree in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:56,960 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:57,550 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position9.jpg, 
+Prompt: Is the flower on the right of the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:57,550 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:58,113 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position9.jpg, 
+Prompt: Is the flower on the left of the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:05:58,113 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:58,833 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position10.jpg, 
+Prompt: Is the book on the left of the cup in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:58,834 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:59,554 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/position/position10.jpg, 
+Prompt: Is the book below the cup in the picture?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:05:59,554 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:05:59,879 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/black_mirror.jpg, 
+Prompt: Is this the poster of Black Mirror?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:05:59,879 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:00,200 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/black_mirror.jpg, 
+Prompt: Is this the poster of The Matrix?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:00,200 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:00,451 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Finch.jpg, 
+Prompt: Is this the poster of the movie 'Finch'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:00,451 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:00,718 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Finch.jpg, 
+Prompt: Is this the poster of the movie 'Wolverine'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:00,718 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:01,001 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Interstellar.jpg, 
+Prompt: Is this the poster of Interstellar?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:01,001 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:01,303 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Interstellar.jpg, 
+Prompt: Is this the poster of Star Trek?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:01,303 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:01,563 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/jia_you_er_nv.jpg, 
+Prompt: Is this the poster of the sitcom 'Jia You Er Nv'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:01,563 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:01,820 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/jia_you_er_nv.jpg, 
+Prompt: Is this the poster of the sitcom 'Friends'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:01,820 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:02,134 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Lost_in_the_stars.jpg, 
+Prompt: Is this the poster of the movie 'Lost in the stars'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:02,134 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:02,438 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Lost_in_the_stars.jpg, 
+Prompt: Is this the poster of Star Trek?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:02,439 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:02,696 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Shawshank_redemption.jpg, 
+Prompt: Is this the poster of the movie 'Shawshank Redemption'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:02,696 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:02,951 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/Shawshank_redemption.jpg, 
+Prompt: Is this the poster of the movie 'The Godfather'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:02,952 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:03,250 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/three_body.jpg, 
+Prompt: Is the original of this TV series written by Liu Cixin?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:03,250 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:03,548 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/three_body.jpg, 
+Prompt: Is this the poster of Three Kingdoms?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:03,548 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:03,805 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/twilight.jpg, 
+Prompt: Is this the poster of Twilight?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:03,805 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:04,063 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/twilight.jpg, 
+Prompt: Is this the poster of Harry Potter?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:04,063 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:04,454 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/poster1.png, 
+Prompt: From this poster, is the director of this TV series Wong Kar-wai?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:06:04,454 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:04,768 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/poster1.png, 
+Prompt: From this poster, is the director of this TV series Zhang Yimou?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:04,768 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:05,053 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/poster2.png, 
+Prompt: From this poster, is the director Zhang Chiyu?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:05,053 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:05,337 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/poster/poster2.png, 
+Prompt: From this poster, is the director Zhang Dayu?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:05,338 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:05,763 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/bedroom.jpg, 
+Prompt: Is the picture a bedroom?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:05,763 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:06,174 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/bedroom.jpg, 
+Prompt: Is the picture a kitchen?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:06,174 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:06,916 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/church.jpg, 
+Prompt: Is the picture a church?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:06,916 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:07,666 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/church.jpg, 
+Prompt: Is the picture a school?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:07,666 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:08,862 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/diving.jpg, 
+Prompt: Is the picture a diving scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:08,863 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:10,150 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/diving.jpg, 
+Prompt: Is the picture a skiing scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:10,150 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:10,419 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/gallery.jpeg, 
+Prompt: Is the picture a gallery?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:10,420 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:10,688 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/gallery.jpeg, 
+Prompt: Is the picture a library?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:10,688 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:11,332 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/lab.jpg, 
+Prompt: Is the picture a laboratory?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:11,332 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:11,982 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/lab.jpg, 
+Prompt: Is the picture a kitchen?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:11,982 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:12,366 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/livingroom.jpg, 
+Prompt: Is the picture a living room?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:12,366 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:12,751 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/livingroom.jpg, 
+Prompt: Is the picture a bedroom?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:12,751 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:13,385 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/marsh.jpg, 
+Prompt: Is the picture a marsh?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:13,385 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:14,023 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/marsh.jpg, 
+Prompt: Is the picture a desert?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:14,024 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:14,331 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/scene.png, 
+Prompt: Is the picture an office scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:14,331 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:14,644 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/scene.png, 
+Prompt: Is the picture a biological laboratory scene?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:14,644 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:15,627 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/station.jpg, 
+Prompt: Is the picture a train station or subway station?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:15,627 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:16,571 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/scene/station.jpg, 
+Prompt: Is the picture an airport?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:16,572 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:16,838 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/altruistic.png, 
+Prompt: Can the English in the picture be translated into Chinese as '我们都应该努力地为他人作出奉献，并把我们这个世界变得更美好'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:16,838 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:17,102 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/altruistic.png, 
+Prompt: Can the red word in the picture be translated into Chinese as '自私'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:17,102 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:17,367 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/ben_niao_xian_fei.png, 
+Prompt: Can the English in the picture be translated into Chinese as '笨鸟先飞'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:17,367 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:17,618 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/ben_niao_xian_fei.png, 
+Prompt: Can the English in the picture be translated into Chinese as '鸦雀无声'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:17,618 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:17,877 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/bie_lao_dao_le.png, 
+Prompt: Can the English in the picture be translated into Chinese as '别唠叨了'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:17,878 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:18,134 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/bie_lao_dao_le.png, 
+Prompt: Can the English in the picture be translated into Chinese as '别再打架了'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:18,135 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:18,398 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/capricious.png, 
+Prompt: Can the English in the picture be translated into Chinese as '他被指责任性、反复无常，不讲民主。'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:18,398 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:18,662 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/capricious.png, 
+Prompt: Can the red word in the picture be translated into English as '任劳任怨'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:18,663 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:18,914 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/classic_taste.png, 
+Prompt: Can the Chinese in the picture be translated into English as 'classic taste'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:18,914 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:19,160 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/classic_taste.png, 
+Prompt: Can the Chinese in the picture be translated into English as 'strawberry flavor'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:19,160 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:19,403 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/Harmony_brings_wealth.png, 
+Prompt: Can the Chinese in the picture be translated into English as 'Harmony brings wealth'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:19,404 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:19,650 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/Harmony_brings_wealth.png, 
+Prompt: Can the Chinese in the picture be translated into English as 'Harmony brings health'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:19,650 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:19,903 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/intruder.png, 
+Prompt: Does the red word in the picture mean 'intruder'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:19,903 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:20,155 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/intruder.png, 
+Prompt: Does the red word in the picture mean 'initiator'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: no
+
+2024-02-04 08:06:20,155 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:20,405 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/work_hard_together.png, 
+Prompt: Can the Chinese in the picture be translated into English as 'work hard together'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: yes
+Label: yes
+
+2024-02-04 08:06:20,406 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:20,660 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/work_hard_together.png, 
+Prompt: Can the Chinese in the picture be translated into English as 'work hard alone'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:20,660 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:20,915 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/yi_ben_wan_li.png, 
+Prompt: Can the English in the picture be translated into Chinese as '一本万利'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: yes
+
+2024-02-04 08:06:20,915 - MME_Evaluation_Logger - INFO - ----------------------------------------------
+2024-02-04 08:06:21,170 - MME_Evaluation_Logger - INFO - Image: /home/jovyan/yifeng/data/VQA_benchmarks/MME/images/translation/yi_ben_wan_li.png, 
+Prompt: Can the English in the picture be translated into Chinese as '一本万利'?Please only answer 'yes' or 'no' to this question, do not output anything else., 
+Model output: no
+Label: no
+
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy: 0.7576
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+: 0.5455
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy(artwork): 0.9
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+(artwork): 0.8
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy(calculation): 0.6
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+(calculation): 0.2
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy(celebrity): 0.6111
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+(celebrity): 0.2222
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy(code): 0.3
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+(code): 0.0
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy(color): 0.75
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+(color): 0.6
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy(commonsense): 0.8182
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+(commonsense): 0.6364
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy(count): 0.6111
+2024-02-04 08:06:21,171 - MME_Evaluation_Logger - INFO - Accuracy+(count): 0.2222
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy(existence): 0.95
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy+(existence): 0.9
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy(landmark): 0.95
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy+(landmark): 0.9
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy(ocr): 0.75
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy+(ocr): 0.5
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy(position): 0.7
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy+(position): 0.4
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy(poster): 0.8
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy+(poster): 0.7
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy(scene): 1.0
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy+(scene): 1.0
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy(translation): 0.6111
+2024-02-04 08:06:21,172 - MME_Evaluation_Logger - INFO - Accuracy+(translation): 0.2222

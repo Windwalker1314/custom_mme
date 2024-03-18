@@ -1,0 +1,3372 @@
+[
+    {
+        "class": "artwork",
+        "imgs": [
+            {
+                "file_name":"david.png",
+                "QA":[
+                    {
+                        "prompt": "这幅画是米开朗基罗创作的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是毕加索创作的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Michelangelo?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Picasso?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Creation_of_Adam.jpg",
+                "QA": [
+                    {
+                        "prompt": "这幅画是米开朗基罗创作的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是叫《大卫》吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Michelangelo?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting called David?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"Haystacks.jpg",
+                "QA":[
+                    {
+                        "prompt": "这幅画是莫奈创作的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是梵高创作的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Monet?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Van Gogh?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"Haystacks2.jpg",
+                "QA":[
+                    {
+                        "prompt": "这幅画是莫奈创作的《干草堆》吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是梵高创作的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Monet called Haystacks?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Van Gogh?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "ku_mu_guai_shi.jpeg",
+                "QA":[
+                    {
+                        "prompt": "这幅画是苏轼创作的《枯木怪石》图吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是张大千画的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Su Shi called '枯木怪石图'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Zhang Daqian?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "last_supper.jpg",
+                "QA": [
+                    {
+                        "prompt": "这幅画是达芬奇创作的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是毕加索创作的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Leonardo da Vinci?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Picasso?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "lotus.jpeg",
+                "QA":[
+                    {
+                        "prompt": "这组画是莫奈的睡莲嘛？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这组画是毕加索创作的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Monet called Water Lilies?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Picasso?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "shanshui12.jpg",
+                "QA":[
+                    {
+                        "prompt": "这几幅画是齐白石创作的《山水十二条屏》之中的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这几张是张大千的山水画吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are these paintings created by Qi Baishi called '山水十二条屏'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are these paintings created by Zhang Daqian?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "sunflower.jpg",
+                "QA": [
+                    {
+                        "prompt": "这幅画是梵高创作的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是毕加索创作的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Van Gogh?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Picasso?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "woman_with_a_pearl.jpg",
+                "QA":[
+                    {
+                        "prompt": "这幅画是法国画家柯罗创作的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这幅画是达芬奇创作的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this painting created by Corot Camille?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this painting created by Leonardo da Vinci??",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "calculation",
+        "imgs": [
+            {
+                "file_name": "cal1.jpg",
+                "QA": [
+                    {
+                        "prompt": "如果精确到小数点后三位，这个式子约等于-23.167吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "如果精确到小数点后三位，这个式子约等于16.667吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "If accurate to three decimal places, is this equation approximately equal to -23.167?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "If accurate to three decimal places, is this equation approximately equal to 16.667?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal2.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个式子的结果等于832吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个式子的结果等于612吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the result of this equation equal to 832?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the result of this equation equal to 612?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal3.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个式子的结果等于92吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个式子的结果等于82吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the result of this equation equal to 92?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the result of this equation equal to 82?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal4.jpg",
+                "QA": [
+                    {
+                        "prompt": "x的值等于1或者6对吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "x的值等于-1或者7对吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Should the value of x be 1 or 6?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Should the value of x be -1 or 7?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal5.jpg",
+                "QA": [
+                    {
+                        "prompt": "根据图中的条件，a的值为5或者-5，b的值为4或者-4对吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "根据图中的条件，a的值为10，b的值为2对吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "According to the conditions in the figure, should the value of a be 5 or -5, and the value of b be 4 or -4?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "According to the conditions in the figure, should the value of a be 10 and the value of b be 2?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal6.png",
+                "QA":[
+                    {
+                        "prompt": "这个式子等于339吗?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个式子等于-327吗?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this equation equal to 339?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this equation equal to -327?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal7.png",
+                "QA":[
+                    {
+                        "prompt": "这个式子等于1/sqrt(2),约等于0.707吗?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个式子等于1+sqrt(2),约等于2.414吗?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this equation equal to 1/sqrt(2), approximately equal to 0.707?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this equation equal to 1+sqrt(2), approximately equal to 2.414?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal8.png",
+                "QA":[
+                    {
+                        "prompt": "这个式子等于9吗?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个式子等于11吗?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this equation equal to 9?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this equation equal to 11?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal9.png",
+                "QA":[
+                    {
+                        "prompt": "这个式子等于12x吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个式子等于3x吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this equation equal to 12x?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this equation equal to 3x?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "cal10.png",
+                "QA":[
+                    {
+                        "prompt": "这个式子等于x^3吗?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个式子等于x/3吗?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this equation equal to x^3?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this equation equal to x/3?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "celebrity",
+        "imgs": [
+            {
+                "file_name": "Cheng_Long.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个人是成龙吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个人是李连杰吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Jackie Chan?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Jet Li?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Einstein.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个人是爱因斯坦吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个人是霍金吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Einstein?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Hawking?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Hawking.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个人是霍金吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个人是爱因斯坦吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Hawking?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Einstein?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Hu_Ge.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个人是胡歌吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个人是黄晓明吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Hu Ge?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Huang Xiaoming?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name" :"Jim_Parsons.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个人是吉姆·帕森斯吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个人是约翰尼·德普吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Jim Parsons?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Johnny Depp?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "kobe.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个人是科比·布莱恩特吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个人是迈克尔·乔丹吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Kobe Bryant?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Michael Jordan?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Lu_Xun.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中这个人是鲁迅吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这个人是杜甫吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Lu Xun?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Du Fu?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Taylor_Swift.jpg",
+                "QA": [
+                    {
+                        "prompt": "Taylor Swift在图中吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "艾薇儿在图中吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is Taylor Swift in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is Avril in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"Yang_Mi.jpg",
+                "QA": [
+                    {
+                        "prompt": "这个人是杨幂吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这个人是范冰冰吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this person Yang Mi?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this person Fan Bingbing?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "code",
+        "imgs": [
+            {
+                "file_name": "python1.png",
+                "QA": [
+                    {
+                        "prompt": "这段代码的输出结果是11和18吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这段代码的输出结果是4和16吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the output of this code 11 and 18?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the output of this code 4 and 16?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "python2.png",
+                "QA": [
+                    {
+                        "prompt": "这段代码会报错吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这段代码的输出结果是小明吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Will this code report an error?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the output of this code Xiao Ming?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "python3.png",
+                "QA": [
+                    {
+                        "prompt": "这段代码的输出结果是8 9 10吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这段代码的输出结果是8和9吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the output of this code 8 9 10?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the output of this code 8 and 9?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "python4.png",
+                "QA": [
+                    {
+                        "prompt": "这段代码的输出结果是4 3 2 1吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这段代码的输出结果是[4,1,2,3]吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the output of this code 4 3 2 1?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the output of this code [4,1,2,3]?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "python5.png",
+                "QA": [
+                    {
+                        "prompt": "这段代码的输出结果是[1, 2, 5, 4]吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这段代码的输出结果是[1, 5, 2, 4]吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the output of this code [1, 2, 5, 4]?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the output of this code [1, 5, 2, 4]?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "color",
+        "imgs": [
+            {
+                "file_name": "black_chair.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中的椅子是黑色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的椅子是白色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the chair in the picture black?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the chair in the picture white?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "blue.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中右边的门是天蓝色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中左边的门是灰绿色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the door on the right sky blue?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the door on the left gray green?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "green_wing.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中的鸟的翅膀是绿色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的鸟的翅膀是红色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the bird's wings in the picture green?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the bird's wings in the picture red?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "green.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中小人的背包是绿色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中人物的背包是黄色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the backpack of the person in the picture green?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the backpack of the person in the picture yellow?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "orange.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中人物的衣服是橙色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中人物的衣服是白色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the hair of the person in the picture orange?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the hair of the person in the picture yellow?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"pink_tree.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的树是粉色或红色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的树是绿色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the tree in the picture pink or red?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the tree in the picture green?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "pink.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中猫咪戴了个粉色的帽子（淋浴帽）吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中猫咪带了个灰色的头套吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the cat wearing a pink shower cap in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the cat wearing a gray shower cap in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "tree_green.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中的树的树干是绿色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的树的树干是棕色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the trunk of the tree in the picture green?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the trunk of the tree in the picture brown?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"white_pink.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中右边蛋糕上的心形是白色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中右边蛋糕上的心形是粉色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the heart on the cake on the right white?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the heart on the cake on the right pink?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "white.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中人物的衣服是白色的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中人物穿着的衣服是黑色的吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the clothes of the person in the picture white?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the clothes of the person in the picture black?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "commonsense",
+        "imgs": [
+            {
+                "file_name": "car.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中这是一辆车的一部分吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这是一个建筑的一部分吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this part of a car in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this part of a building in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense1.png",
+                "QA": [
+                    {
+                        "prompt": "在这个场景中要注意保持安静吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "在这个场景中适合练习瑜伽和跆拳道吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Should we keep quiet in this scene?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is it suitable to practice yoga and taekwondo in this scene?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense2.png",
+                "QA": [
+                    {
+                        "prompt": "图中的是雅丹地貌吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是喀斯特地貌吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a yardang landform?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a karst landform?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense3.jpg",
+                "QA": [
+                    {
+                        "prompt": "在这个场景中是否可以乘坐竹筏或皮筏艇呢？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "在这个场景中是否可以开邮轮呢？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can we ride bamboo rafts in this scene?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can we take a cruise in this scene?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense4.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中这种现象是否被称为极光？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这种现象在中国海南省是否能看到呢？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this phenomenon called aurora?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can this phenomenon be seen in Hainan Province, China?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense5.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否只有一只真实的狗?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有两只真实的狗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is there only one real dog in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there two real dogs in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense6.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中这个人面对的是珊瑚礁吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这个人是在跳伞过程中吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the person in the picture facing the coral reef?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the person in the picture parachuting?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense7.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中这是木星吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这是土星吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this Jupiter in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this Saturn in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "commonsense8.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中这个人在榨果蔬汁吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这个人在榨橙汁吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the person in the picture squeezing fruit and vegetable juice?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the person in the picture squeezing orange juice?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "photographer.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中这个人是在摄影吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这个人是狙击吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the person in the picture taking pictures?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the person in the picture sniping?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "ski.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中这个人是在滑雪吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中这个人是在滑冰吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the person in the picture skiing?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the person in the picture skating?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "count",
+        "imgs": [
+            {
+                "file_name": "count1.png",
+                "QA":[
+                    {
+                        "prompt": "图中是否有六只鸭子？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有7只鸭子？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there six ducks in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there seven ducks in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "count2.png",
+                "QA":[
+                    {
+                        "prompt": "图中是否有八只鸟？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否共有十只鸟？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there eight birds in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there ten birds in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "count3.png",
+                "QA":[
+                    {
+                        "prompt": "图中是否有14个灰色的圆和两个橙色的圆？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有12个灰色的大圆、4个灰色的小圆和两个橙色的圆？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there 14 gray circles and two orange circles in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there 12 large gray circles, 4 small gray circles and two orange circles in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "count4.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有两盘披萨和两个杯子？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有三盘沙拉和三个杯子？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there two pizzas and two cups in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there three salads and three cups in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "count5.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中是否有两个红苹果和一个绿苹果？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否只有一个红苹果和一个绿苹果？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there two red apples and one green apple in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there only one red apple and one green apple in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "eight.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中是否有八只鹿?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有十只鹿?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there eight deer in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there ten deer in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "three_girls.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中是否有三个女孩?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有四个女孩?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there three girls in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there four girls in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "two_bowls.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中是否有两个碗?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有三双筷子?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there two bowls in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there three pairs of chopsticks in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "two_girls.jpg",
+                "QA": [
+                    {
+                        "prompt": "图中是否有两个女孩?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有三个女孩?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there two girls in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there three girls in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "existence",
+        "imgs": [
+            {
+                "file_name": "candle.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有蜡烛？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有火柴？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there candles in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there matches in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "carrot.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有胡萝卜？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有土豆？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there carrots in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there potatoes in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "castle.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有城堡？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有雪山？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there castles in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there snow mountains in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "dice.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有骰子是四点朝上？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有扑克牌？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there dice with four points facing up in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there playing cards in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "elephant.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有大象？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有狮子？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there elephants in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there lions in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "giraffe.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有长颈鹿？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有斑马？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there giraffes in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there zebras in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "mirror.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有镜子？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有一扇门？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there mirrors in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is there a door in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "motorcycle.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有摩托车？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有飞机？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there motorcycles in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there airplanes in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "windmill.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有风车？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有风筝？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there windmills in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there kites in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "yacht.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是否有游艇？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是否有潜水艇？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Are there yachts in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there submarines in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "landmark",
+        "imgs": [
+            {
+                "file_name": "Eiffel_Tower.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是埃菲尔铁塔吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是东京塔吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture the Eiffel Tower?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the Tokyo Tower?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Empire_State_Building.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是帝国大厦吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是北京中央电视塔吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture the Empire State Building?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the CCTV Tower in Beijing?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "National_Grand_Theatre.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是国家大剧院吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是悉尼歌剧院吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture the National Grand Theatre?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the Sydney Opera House?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Notre_Dame_of_Paris.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是巴黎圣母院吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是圣彼得大教堂吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture Notre Dame of Paris?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture St. Peter's Basilica?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Operahouse.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是悉尼歌剧院吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是国家大剧院吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture the Sydney Opera House?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the National Grand Theatre?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Pisa_tower.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是比萨斜塔吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是埃菲尔铁塔吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture the Leaning Tower of Pisa?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the Eiffel Tower?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Potala_Palace.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是布达拉宫吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是故宫吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture Potala Palace?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the Forbidden City?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Pyramid.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是金字塔吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是蒙古包吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture the Pyramid?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the yurt?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Taj_Mahal.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是泰姬陵吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是卢浮宫吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture the Taj Mahal?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture the Louvre?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "The_Statue_of_Liberty.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中有自由女神像吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中有埃菲尔铁塔吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is there the Statue of Liberty in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is there the Eiffel Tower in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "ocr",
+        "imgs": [
+            {
+                "file_name":"Ausgang.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中写的是不是Ausgang？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中写的是不是Eingang？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture written 'Ausgang'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture written 'Eingang'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "fruit_sour.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中写的是不是水果酸(fruit sour)？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中写的是不是水果汤(fruit soup)？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture written 'fruit sour'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture written 'fruit soup'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "japan.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是不是日本街头?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是不是中国街头?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a street in Japan?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a street in China?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"make_meaning.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中写的是不是make meaning？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中写的是不是make money？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture written 'make meaning'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture written 'make money'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "OCR_dream.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中是不是有个心型上写了单词dream?",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中是不是有个心型上写了单词love?",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is there a heart-shaped word 'dream' in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is there a heart-shaped word 'love' in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Menu.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中菜单上是否有法式吐司？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中菜单上是否有牛排和意面？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is there French toast on the menu?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Are there steaks and pasta on the menu?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "OCR1.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中写的是不是人间有味是清欢？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中写的是不是人问肴味是何物？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture written that '人间有味是清欢'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture written that people ask what is the taste of food?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "OCR2.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中写的是不是'Love is always the answer'？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中写的是不是'Love is always the question'？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture written that 'Love is always the answer'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture written that 'Love is always the question'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "OCR3.jpg",
+                "QA":[
+                    {
+                        "prompt": "根据图中小票的信息，香菇的单价是不是15.96元？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "根据图中小票的信息，香菇的单价是不是11.96元？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "According to the information on the receipt, is the price of mushrooms 15.96 yuan?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "According to the information on the receipt, is the price of mushrooms 16.96 yuan?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "OCR4.jpg",
+                "QA":[
+                    {
+                        "prompt": "右边女生举的牌子上写的是不是'The future is female'？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "左边女生举的牌子上写的是不是'I love you'？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the sign raised by the girl on the right written 'The future is female'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the sign raised by the girl on the left reading 'I love you'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "position",
+        "imgs": [
+            {
+                "file_name": "position1.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中列车在人物的右边吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中列车在人物的正前方吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the train on the right of the person in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the train in front of the person in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position2.jpg",
+                "QA":[
+                    {
+                        "prompt": "以摄影师的视角来看，图中狗在猫的右边吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "以摄影师的视角来看，图中狗在猫的左边吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "From the perspective of the photographer, is the dog on the right of the cat in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "From the perspective of the photographer, is the dog on the left of the cat in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position3.jpg",
+                "QA":[
+                    {
+                        "prompt": "杯子在纸张的右上角吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "杯子在纸张的左下角吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the cup in the upper right corner of the paper?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the cup in the lower left corner of the paper?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position4.jpg",
+                "QA":[
+                    {
+                        "prompt": "在图上，背着包的人在另一个人的左边吗（以摄影师视角来看）？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "在图上，背着包的人在另一个人的右边吗（以摄影师视角来看）？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "In the picture, is the person with the bag on the left of another person (from the perspective of the photographer)?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "In the picture, is the person with the bag on the right of another person (from the perspective of the photographer)?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position5.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中女生在男生的右边吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中女生在男生的左边吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the woman on the right side of the man in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the woman on the left side of the man in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position6.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中金属勺子是否在金属叉子的左边？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中金属勺子是否在金属叉子的右边？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the metal spoon on the left of the metal fork in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the metal spoon on the right of the metal fork in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position7.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中背着蓝色背包的人是否在背着绿色背包的人的右边？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中背着蓝色背包的人是否在背着绿色背包的人的左边？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the person with the blue backpack on the right of the person with the green backpack in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the person with the blue backpack on the left of the person with the green backpack in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position8.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中房子是否在树的左边？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中房子是否在树的右边？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the house on the left of the tree in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the house on the right of the tree in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }   
+                ]
+            },
+            {
+                "file_name": "position9.jpg",
+                "QA":[
+                    {
+                        "prompt": "花是否在画面的右边？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "花是否在画面的左边？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the flower on the right of the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the flower on the left of the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "position10.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中书是否在杯子的左边？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中书是否在杯子的下面？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the book on the left of the cup in the picture?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the book below the cup in the picture?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class":"poster",
+        "imgs": [
+            {
+                "file_name":"black_mirror.jpg",
+                "QA":[
+                    {
+                        "prompt": "这是黑镜的海报吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是黑客帝国的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this the poster of Black Mirror?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of The Matrix?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"Finch.jpg",
+                "QA":[
+                    {
+                        "prompt": "这是电影《芬奇》的海报吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是电影《金刚狼》的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this the poster of the movie 'Finch'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of the movie 'Wolverine'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Interstellar.jpg",
+                "QA":[
+                    {
+                        "prompt": "这是星际穿越的海报吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是星际迷航的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this the poster of Interstellar?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of Star Trek?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"jia_you_er_nv.jpg",
+                "QA":[
+                    {
+                        "prompt": "这是情景喜剧家有儿女的海报吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是情景喜剧老友记的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this the poster of the sitcom 'Jia You Er Nv'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of the sitcom 'Friends'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"Lost_in_the_stars.jpg",
+                "QA":[
+                    {
+                        "prompt": "这是电影《消失的她》（Lost in the stars）的海报吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是星际迷航的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this the poster of the movie 'Lost in the stars'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of Star Trek?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"Shawshank_redemption.jpg",
+                "QA":[
+                    {
+                        "prompt": "这是电影《肖申克的救赎》的海报吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是电影《教父》的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this the poster of the movie 'Shawshank Redemption'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of the movie 'The Godfather'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "three_body.jpg",
+                "QA":[
+                    {
+                        "prompt": "这个电视剧的原著是刘慈欣写的吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是三国演义的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the original of this TV series written by Liu Cixin?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of Three Kingdoms?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "twilight.jpg",
+                "QA":[
+                    {
+                        "prompt": "这是暮光之城的海报吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "这是哈利波特的海报吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is this the poster of Twilight?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is this the poster of Harry Potter?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"poster1.png",
+                "QA":[
+                    {
+                        "prompt": "从这张海报上看，该电视剧的导演是王家卫吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "从这张海报上看，该电视剧的导演是张艺谋吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "From this poster, is the director of this TV series Wong Kar-wai?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "From this poster, is the director of this TV series Zhang Yimou?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "poster2.png",
+                "QA":[
+                    {
+                        "prompt": "从这海报上看，导演是张吃鱼吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "从这海报上看，导演是张大鱼吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "From this poster, is the director Zhang Chiyu?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "From this poster, is the director Zhang Dayu?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "scene",
+        "imgs": [
+            {
+                "file_name":"bedroom.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是卧室吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是厨房吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a bedroom?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a kitchen?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "church.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是教堂吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是学校吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a church?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a school?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"diving.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是潜水场景吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是滑雪场景吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a diving scene?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a skiing scene?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "gallery.jpeg",
+                "QA":[
+                    {
+                        "prompt": "图中的是画廊吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是图书馆吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a gallery?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a library?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "lab.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是实验室吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是厨房吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a laboratory?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a kitchen?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "livingroom.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是客厅吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是卧室吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a living room?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a bedroom?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "marsh.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是湿地吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是沙漠吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a marsh?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a desert?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "scene.png",
+                "QA":[
+                    {
+                        "prompt": "图中的是一个办公场景吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是一个生物实验室的场景吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture an waiting room scene?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture a biological laboratory scene?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"station.jpg",
+                "QA":[
+                    {
+                        "prompt": "图中的是火车站或者地铁站吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的是机场吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Is the picture a train station or subway station?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Is the picture an airport?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class": "translation",
+        "imgs": [
+            {
+                "file_name":"altruistic.png",
+                "QA":[
+                    {
+                        "prompt": "图中英文翻译成中文可以是'我们都应该努力地为他人作出奉献，并把我们这个世界变得更美好'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中红色的单词翻译成中文是'热情'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '我们都应该努力地为他人作出奉献，并把我们这个世界变得更美好'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the red word in the picture be translated into Chinese as '自私'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "ben_niao_xian_fei.png",
+                "QA":[
+                    {
+                        "prompt": "图中英文翻译成中文可以是'笨鸟先飞'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中英文翻译成中文可以是'鸦雀无声'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '笨鸟先飞'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '鸦雀无声'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "bie_lao_dao_le.png",
+                "QA":[
+                    {
+                        "prompt": "图中英文翻译成中文可以是'别唠叨了'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中英文翻译成中文可以是'别再打架了'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '别唠叨了'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '别再打架了'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "capricious.png",
+                "QA":[
+                    {
+                        "prompt": "图中英文翻译成中文可以是'他被指责任性、反复无常，不讲民主。'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中红色单词的英文是'任劳任怨'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '他被指责任性、反复无常，不讲民主。'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the red word in the picture be translated into English as '任劳任怨'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "classic_taste.png",
+                "QA": [
+                    {
+                        "prompt": "图中中文翻译成英文可以是'classic taste'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中中文翻译成英文可以是'stawberry flavor'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the Chinese in the picture be translated into English as 'classic taste'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the Chinese in the picture be translated into English as 'strawberry flavor'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "Harmony_brings_wealth.png",
+                "QA":[
+                    {
+                        "prompt": "图中中文翻译成英文可以是'Harmony brings wealth'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中中文翻译成英文可以是'May your sources of wealth be abundant'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the Chinese in the picture be translated into English as 'Harmony brings wealth'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the Chinese in the picture be translated into English as 'May your sources of wealth be abundant'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name":"intruder.png",
+                "QA":[
+                    {
+                        "prompt": "图中的红色单词是'入侵者'的意思吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中的红色单词是'发起者'的意思吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Does the red word in the picture mean '入侵者'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Does the red word in the picture mean 'initiator'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "work_hard_together.png",
+                "QA":[
+                    {
+                        "prompt": "图中中文翻译成英文可以是'work hard together'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中中文翻译成英文可以是'work hard alone'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the Chinese in the picture be translated into English as 'work hard together'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the Chinese in the picture be translated into English as 'work hard alone'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            },
+            {
+                "file_name": "yi_ben_wan_li.png",
+                "QA":[
+                    {
+                        "prompt": "图中英文翻译成中文可以是'一本万利'吗？",
+                        "language": "CN",
+                        "label": "是"
+                    },
+                    {
+                        "prompt": "图中英文翻译成中文可以是'马到成功'吗？",
+                        "language": "CN",
+                        "label": "否"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '一本万利'?",
+                        "language": "EN",
+                        "label": "yes"
+                    },
+                    {
+                        "prompt": "Can the English in the picture be translated into Chinese as '马到成功'?",
+                        "language": "EN",
+                        "label": "no"
+                    }
+                ]
+            }
+        ]
+    }
+]
